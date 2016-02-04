@@ -7,5 +7,6 @@ unusual option call/put
 short squeeze possibility
 company news keyword filter
 
+For how to use the system, please refer to the 'user guide' doc.
 
 USER BEWARE: due to resource issue, the tool scan lots of data and currently has performance issue. You may not see prompt results but there are lots process running in the background. Fix maybe only in the long run...
