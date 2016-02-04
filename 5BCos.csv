@@ -1,0 +1,381 @@
+AA;Basic Materials
+AAL;Services
+AAPL;Consumer Goods
+ABB;Industrial Goods
+ABBV;Healthcare
+ABEV;Consumer Goods
+ABT;Healthcare
+ABX;Basic Materials
+ACN;Technology
+ADBE;Technology
+ADM;Consumer Goods
+ADSK;Technology
+AEP;Utilities
+AES;Utilities
+AET;Healthcare
+AFL;Financial
+AGN;Healthcare
+AGNC;Financial
+AIG;Financial
+AKAM;Technology
+ALL;Financial
+ALLY;Financial
+ALTR;Technology
+ALU;Technology
+AMAT;Technology
+AMGN;Healthcare
+AMTD;Financial
+AMX;Technology
+AMZN;Services
+APA;Basic Materials
+APC;Basic Materials
+APD;Basic Materials
+ARCP;Financial
+ATVI;Technology
+AUY;Basic Materials
+AVGO;Technology
+AXP;Financial
+AZN;Healthcare
+BA;Industrial Goods
+BABA;Services
+BAC;Financial
+BAX;Healthcare
+BBBY;Services
+BBD;Financial
+BBL;Basic Materials
+BBT;Financial
+BBVA;Financial
+BBY;Services
+BCS;Financial
+BHI;Basic Materials
+BHP;Basic Materials
+BIDU;Technology
+BK;Financial
+BMY;Healthcare
+BP;Basic Materials
+BRCM;Technology
+BRKB;Financial
+BRX;Financial
+BSX;Healthcare
+BUD;Consumer Goods
+BX;Financial
+C;Financial
+CA;Technology
+CAG;Consumer Goods
+CAM;Basic Materials
+CAR;Services
+CAT;Industrial Goods
+CBI;Industrial Goods
+CBS;Services
+CCE;Consumer Goods
+CCJ;Basic Materials
+CCL;Services
+CELG;Healthcare
+CFG;Financial
+CHK;Basic Materials
+CIG;Utilities
+CL;Consumer Goods
+CLR;Basic Materials
+CMCSA;Services
+CMCSK;Services
+CMS;Utilities
+CNP;Utilities
+CNQ;Basic Materials
+CNX;Basic Materials
+COF;Financial
+COG;Basic Materials
+COH;Consumer Goods
+COP;Basic Materials
+COST;Services
+COV;Healthcare
+CPN;Utilities
+CRM;Technology
+CSCO;Technology
+CSX;Services
+CTL;Technology
+CTSH;Technology
+CTXS;Technology
+CVE;Basic Materials
+CVS;Healthcare
+CVX;Basic Materials
+CX;Industrial Goods
+CYH;Healthcare
+D;Utilities
+DAL;Services
+DB;Financial
+DD;Basic Materials
+DDR;Financial
+DE;Industrial Goods
+DG;Services
+DHI;Industrial Goods
+DHR;Industrial Goods
+DIS;Services
+DISCA;Services
+DISH;Services
+DOV;Industrial Goods
+DOW;Basic Materials
+DRC;Energy
+DRE;Financial
+DTV;Services
+DUK;Utilities
+DVN;Basic Materials
+EBAY;Services
+ECA;Basic Materials
+ED;Utilities
+EGO;Basic Materials
+EIX;Utilities
+EMC;Technology
+EMR;Industrial Goods
+EOG;Basic Materials
+EPD;Basic Materials
+EQR;Financial
+ERIC;Technology
+ESRX;Healthcare
+ESV;Basic Materials
+ETE;Basic Materials
+ETFC;Financial
+ETN;Industrial Goods
+ETP;Basic Materials
+EXC;Utilities
+EXPE;Services
+F;Consumer Goods
+FB;Technology
+FCX;Basic Materials
+FE;Utilities
+FITB;Financial
+FL;Consumer Goods
+FLEX;Technology
+FOX;Services
+FOXA;Services
+FRC;Financial
+FTI;Basic Materials
+FTR;Technology
+GE;Industrial Goods
+GG;Basic Materials
+GGB;Basic Materials
+GGP;Financial
+GILD;Healthcare
+GLW;Technology
+GM;Consumer Goods
+GNW;Financial
+GOOG;Technology
+GOOGL;Technology
+GPS;Services
+GS;Financial
+GSK;Healthcare
+GT;Consumer Goods
+HAL;Basic Materials
+HBAN;Financial
+HCA;Healthcare
+HCP;Financial
+HD;Services
+HES;Basic Materials
+HFC;Basic Materials
+HIG;Financial
+HLT;Services
+HON;Industrial Goods
+HOT;Services
+HPQ;Technology
+HRB;Services
+HSBC;Financial
+HST;Financial
+HTZ;Services
+HUN;Basic Materials
+IBM;Technology
+INFY;Technology
+ING;Financial
+INTC;Technology
+IP;Consumer Goods
+IPG;Services
+ITUB;Financial
+ITW;Industrial Goods
+IVZ;Financial
+JBHT;Services
+JCI;Consumer Goods
+JD;Technology
+JNJ;Healthcare
+JNPR;Technology
+JPM;Financial
+KEY;Financial
+KIM;Financial
+KKR;Financial
+KMI;Basic Materials
+KO;Consumer Goods
+KORS;Consumer Goods
+KR;Services
+KHC;Consumer Goods
+KSS;Services
+LBTYA;Services
+LBTYK;Technology
+LEN;Industrial Goods
+LINE;Basic Materials
+LLTC;Technology
+LLY;Healthcare
+LNG;Basic Materials
+LO;Consumer Goods
+LOW;Services
+LUV;Services
+LVS;Services
+LYB;Basic Materials
+LYG;Financial
+M;Services
+MA;Financial
+MAR;Services
+MAS;Industrial Goods
+MAT;Consumer Goods
+MBLY;Technology
+MCD;Services
+MCHP;Technology
+MDLZ;Consumer Goods
+MDT;Healthcare
+MET;Financial
+MGM;Services
+MMC;Financial
+MMM;Industrial Goods
+MO;Consumer Goods
+MON;Basic Materials
+MPC;Basic Materials
+MPEL;Services
+MRK;Healthcare
+MRO;Basic Materials
+MRVL;Technology
+MS;Financial
+MSFT;Technology
+MT;Basic Materials
+MU;Technology
+MXIM;Technology
+MYL;Healthcare
+NAVI;Financial
+NBL;Basic Materials
+NBR;Basic Materials
+NEE;Utilities
+NEM;Basic Materials
+NFLX;Services
+NI;Utilities
+NKE;Consumer Goods
+NLY;Financial
+NOK;Technology
+NOKBF;Technology
+NOV;Basic Materials
+NRG;Utilities
+NTAP;Technology
+NVDA;Technology
+NVO;Healthcare
+NVS;Healthcare
+NWL;Consumer Goods
+NWSA;Services
+NXPI;Technology
+NYCB;Financial
+OKE;Utilities
+ORAN;Technology
+ORCL;Technology
+OXY;Basic Materials
+PBR;Energy
+PBRA;Basic Materials
+PCG;Utilities
+PEG;Utilities
+PEP;Consumer Goods
+PFE;Healthcare
+PG;Consumer Goods
+PGR;Financial
+PHM;Industrial Goods
+PM;Consumer Goods
+PNC;Financial
+POT;Basic Materials
+PPL;Utilities
+PRU;Financial
+PSX;Basic Materials
+PXD;Basic Materials
+QCOM;Technology
+QIHU;Technology
+QVCA;Services
+RCL;Services
+RF;Financial
+RIG;Basic Materials
+RIO;Basic Materials
+RRC;Basic Materials
+RSG;Industrial Goods
+S;Technology
+SAN;Financial
+SAP;Technology
+SBS;Utilities
+SBUX;Services
+SCHW;Financial
+SDRL;Basic Materials
+SE;Basic Materials
+SHPG;Healthcare
+SIRI;Services
+SLB;Basic Materials
+SLW;Basic Materials
+SNDK;Technology
+SNY;Healthcare
+SO;Utilities
+SPLS;Services
+STI;Financial
+STJ;Healthcare
+STO;Basic Materials
+STX;Technology
+SU;Basic Materials
+SUTNY;Financial
+SWKS;Technology
+SWN;Basic Materials
+SYMC;Technology
+T;Technology
+TAP;Consumer Goods
+TCK;Basic Materials
+TEF;Technology
+TEVA;Healthcare
+TGT;Services
+THC;Healthcare
+TJX;Services
+TMO;Healthcare
+TMUS;Technology
+TOT;Basic Materials
+TRN;Services
+TSLA;Consumer Goods
+TSM;Technology
+TSN;Consumer Goods
+TWC;Services
+TWTR;Technology
+TWX;Services
+TXN;Technology
+TYC;Services
+UAL;Services
+UBS;Financial
+UDR;Financial
+UL;Consumer Goods
+UN;Consumer Goods
+UNH;Healthcare
+UNP;Services
+UPS;Services
+URI;Services
+USB;Financial
+UTX;Industrial Goods
+V;Financial
+VALE;Basic Materials
+VIAB;Services
+VIP;Technology
+VLO;Basic Materials
+VOD;Services
+VZ;Technology
+WBA;Consumer Goods
+WEC;Utilities
+WFC;Financial
+WFM;Services
+WFT;Basic Materials
+WIN;Technology
+WLL;Basic Materials
+WM;Industrial Goods
+WMB;Basic Materials
+WMT;Services
+WU;Financial
+WY;Industrial Goods
+XEL;Utilities
+XL;Financial
+XLNX;Technology
+XOM;Basic Materials
+XRX;Technology
+YHOO;Technology
+YUM;Services
+ZION;Financial
+ZTS;Healthcare
