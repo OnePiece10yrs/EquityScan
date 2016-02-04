@@ -1,6 +1,6 @@
 User Guide
 
-The software is currently only scan large cap stock which has market value of more than 5B. All the companies name are save in 5BCos.csv file. User is free to add/remove company from the list as long as you provide correct stock ticker and sector.
+The software is currently only scan large cap stock which has market value of more than 5B. Companies to be scanned are stored in 5BCos.csv file. User is free to add/remove company from the list as long as you provide correct stock ticker and sector.
 
 1. create a new directoy $user/EquotyScan
 2. Copy 5BCos.csv to the above newly created directory
