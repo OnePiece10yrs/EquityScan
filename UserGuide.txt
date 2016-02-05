@@ -4,5 +4,6 @@ The software is currently only scan large cap stock which has market value of mo
 
 1. create a new directoy $user/EquotyScan
 2. Copy 5BCos.csv to the above newly created directory
-3. run the compile .jar file
+3. run program
 
+This program has been tested on Windows 8/8.1/10.
