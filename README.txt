@@ -1,4 +1,4 @@
-EquotyScan is an application to spot stock buying/selling opportunity tool. Only large cap companies which have greater than 5B market cap and listed in USA are considered in this software.
+EquotyScan is an application to spot stock buying (short side in future release) opportunity tool. Only large cap companies which have greater than 5B market cap and listed in USA are considered in this software.
 
 This software currently contains tools to scan the following activities:
 moving average break up/down
